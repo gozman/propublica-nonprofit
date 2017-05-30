@@ -1,0 +1,24 @@
+{
+  "name": "propublica-nonprofit",
+  "version": "1.0.0",
+  "description": "A simple API for the Propublica Non-Profit Search API v2.0 that handles rate limits",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gozman/propublica-nonprofit.git"
+  },
+  "keywords": [
+    "propublica",
+    "non-profit",
+    "990"
+  ],
+  "author": "Mike Gozzo <mgozzo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gozman/propublica-nonprofit/issues"
+  },
+  "homepage": "https://github.com/gozman/propublica-nonprofit#readme"
+}
